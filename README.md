@@ -9,4 +9,4 @@ A short mini-project built with jQuery, one of the most popular and high-demand 
 - The user can delete an item from the list of items.
 - The user can change the order of items in the list of items.
 
-[To-Do-List]: (https://trupti7291.github.io/To-Do-List/)
+(To-Do-List): [https://trupti7291.github.io/To-Do-List/]
