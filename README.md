@@ -1,4 +1,4 @@
-#<h1 align="center"> To-Do-List </h1>
+<h1 align="center"> To-Do-List </h1>
 
 ## Feature
 The user can add a new item to a list of items.
